@@ -1,0 +1,32 @@
+.hero{
+    background-color: #000000;
+    height: 740px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6), url(../img/heroimg.jpg)
+    );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+
+    h2{
+        font-size: 64px;
+        font-weight: lighter;
+        line-height: 1.4cm;
+    }
+
+    .hero-content{
+        width: 50px;
+    }
+    p{
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    a.btn{
+        display: inline-block;
+        background-color: ;
+
+    }
+}
